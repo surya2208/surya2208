@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Surya
 
-🚀 DevOps Engineer | AWS | Python
+🚀 SRE/DevOps Engineer | AWS | Python
 
 ---
 
 ## 💫 About Me
 
-- 💼 Currently working as **Application Support Engineer**
+- 💼 Currently working as **DevOps Engineer**
 - ☁️ Hands-on with **AWS (Lambda, CloudWatch, EventBridge, IAM)**
 - ⚙️ Focused on **Automation & DevOps practices**
 - 🧠 Learning: **Terraform, Kubernetes, CI/CD, System Design**
