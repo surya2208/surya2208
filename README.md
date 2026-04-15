@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi there, I'm Surya
 
-<!--
-**surya2208/surya2208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer | AWS | Python
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me
+
+- 💼 Currently working as **Application Support Engineer**
+- ☁️ Hands-on with **AWS (Lambda, CloudWatch, EventBridge, IAM)**
+- ⚙️ Focused on **Automation & DevOps practices**
+- 🧠 Learning: **Terraform, Kubernetes, CI/CD, System Design**
+- 🔥 Goal: Become a **high-level DevOps / Platform Engineer**
+
+---
+
+## 🚀 Tech Stack
+
+### ☁️ Cloud
+- AWS (Lambda, EC2, S3, IAM, CloudWatch, EventBridge)
+
+### ⚙️ DevOps Tools
+- Docker
+- Kubernetes
+- Jenkins
+- Terraform 
+- Git & GitHub
+
+### 💻 Programming
+- Python (Automation)
+- Shell Scripting
+
+---
+
+## 🧩 Projects
+
+### 🔹 AWS Cost Anomaly Alert System
+- Built using **Lambda + EventBridge + SNS**
+- Sends email alerts for unusual AWS cost spikes
+
+### 🔹 Multi-Account AWS Automation
+- Automated notifications across **200+ AWS accounts**
+- Used **Boto3 + Lambda + CloudWatch**
+---
+
+---
+
+## 🔥 Current Focus
+
+- 🚀 Mastering **DevOps End-to-End**
+- 📦 Docker + Kubernetes hands-on
+- ⚡ Building real-world AWS projects
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: mail.surya2208@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/surya-p7/
+
+---
